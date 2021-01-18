@@ -1,0 +1,16 @@
+img {
+    width: 1000px;
+    height: 600px;
+}
+body{
+    margin: 0px;
+    font-size: 20px;
+    color: gray;
+}
+
+.box{
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
